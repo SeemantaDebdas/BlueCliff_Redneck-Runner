@@ -1,0 +1,1376 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1466; Version 2009; 64bit' Language: 'en' Physical Memory: 7568 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Game Development/Respository/Internship Project/BlueCliff_Redneck Runner
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55922
+Successfully changed project path to: D:/Game Development/Respository/Internship Project/BlueCliff_Redneck Runner
+D:/Game Development/Respository/Internship Project/BlueCliff_Redneck Runner
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 49.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Game Development/Respository/Internship Project/BlueCliff_Redneck Runner/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1636)
+    Vendor:   
+    VRAM:     3784 MB
+    Driver:   30.0.13023.1012
+Initialize mono
+Mono path[0] = 'D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56320
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.024705 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 28.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 15.874 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011541 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.585 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 5.893800 ms (FindLiveObjects: 0.789400 ms CreateObjectMapping: 0.238600 ms MarkObjects: 4.717000 ms  DeleteObjects: 0.141900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Script/Collectible.cs
+  artifactKey: Guid(952fde9a9957f5141aa1b4fcba2538e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Collectible.cs using Guid(952fde9a9957f5141aa1b4fcba2538e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fcd5906d043c6cf651cfb6653e525bd') in 0.115972 seconds
+  Import took 0.142842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.508355 seconds.
+  path: Assets/Script/Collectible.cs
+  artifactKey: Guid(952fde9a9957f5141aa1b4fcba2538e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Collectible.cs using Guid(952fde9a9957f5141aa1b4fcba2538e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce3c25382dd06110dd2a29acb3e901c9') in 0.023962 seconds
+  Import took 0.028526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001606 seconds.
+  path: Assets/Script/Collectible.cs
+  artifactKey: Guid(952fde9a9957f5141aa1b4fcba2538e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Collectible.cs using Guid(952fde9a9957f5141aa1b4fcba2538e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce3c25382dd06110dd2a29acb3e901c9') in 0.004116 seconds
+  Import took 0.008186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.799036 seconds.
+  path: Assets/Script/Collectible.cs
+  artifactKey: Guid(952fde9a9957f5141aa1b4fcba2538e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Collectible.cs using Guid(952fde9a9957f5141aa1b4fcba2538e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5241e348a52d4eb17078b9cc61ab7e7') in 0.010938 seconds
+  Import took 0.041976 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001169 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.062 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.4 MB.
+System memory in use after: 60.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1582.
+Total: 4.242100 ms (FindLiveObjects: 0.612500 ms CreateObjectMapping: 0.154200 ms MarkObjects: 3.397700 ms  DeleteObjects: 0.075000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000791 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.836 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.4 MB.
+System memory in use after: 60.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1585.
+Total: 3.754900 ms (FindLiveObjects: 0.475300 ms CreateObjectMapping: 0.060300 ms MarkObjects: 3.051200 ms  DeleteObjects: 0.164300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 321.446262 seconds.
+  path: Assets/Script/Collectible.cs
+  artifactKey: Guid(952fde9a9957f5141aa1b4fcba2538e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Collectible.cs using Guid(952fde9a9957f5141aa1b4fcba2538e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c762f5b7b9a4b2b414649f8176010d2') in 0.006008 seconds
+  Import took 0.029231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.905416 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(707d91397e02fc145aec2eb0714ffe0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(707d91397e02fc145aec2eb0714ffe0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c7d048a02c5d515d5a9e267d8bf3580') in 0.018434 seconds
+  Import took 0.022171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.552424 seconds.
+  path: Assets/Prefabs/Collectible.prefab
+  artifactKey: Guid(6f00416dc6f31f64da2f1c9403e48b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Collectible.prefab using Guid(6f00416dc6f31f64da2f1c9403e48b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec0eaab7aa257b01e46d3b7ea0a12cd3') in 0.067527 seconds
+  Import took 0.070413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.040403 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9127b2c1414f36a1c119b82972c080f') in 0.027490 seconds
+  Import took 0.031872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003390 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9127b2c1414f36a1c119b82972c080f') in 0.008385 seconds
+  Import took 0.011179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.584223 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/coffee-cup-with-plate/source
+  artifactKey: Guid(b376e369ce84e4c328e308964581b438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/coffee-cup-with-plate/source using Guid(b376e369ce84e4c328e308964581b438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71318eb1e3ff3bfc2fe253dc32d6e317') in 0.012921 seconds
+  Import took 0.015744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.256446 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Body_AO.tga.png
+  artifactKey: Guid(5e520437270154a1ab8bd1366bd39c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Body_AO.tga.png using Guid(5e520437270154a1ab8bd1366bd39c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc29a1364fa1a0457592a42a1a6eaff') in 0.229920 seconds
+  Import took 0.245291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Head_N.tga.png
+  artifactKey: Guid(289cad86bfa954898b08d32c5b822ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Head_N.tga.png using Guid(289cad86bfa954898b08d32c5b822ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88bd0333f0abd0dcde800a9e7322aaab') in 0.085138 seconds
+  Import took 0.098172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_PantCover_MT.tga.png
+  artifactKey: Guid(e87afc729717342ae88b9c1307446e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_PantCover_MT.tga.png using Guid(e87afc729717342ae88b9c1307446e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b7cc22c28de390f3d7cfe7e6c9e24d4') in 0.049728 seconds
+  Import took 0.052986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_PantCover_N.tga.png
+  artifactKey: Guid(572473fa7b60a4fd296d7d619473dbc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_PantCover_N.tga.png using Guid(572473fa7b60a4fd296d7d619473dbc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cca6cb6bd626407b27de003b48c42db6') in 0.048574 seconds
+  Import took 0.059369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Teeth_AO.tga.png
+  artifactKey: Guid(c89c357706733457b83a78b6d1072540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Teeth_AO.tga.png using Guid(c89c357706733457b83a78b6d1072540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '824b6b59c000eadb5fd74f6d08c8f6d7') in 0.046797 seconds
+  Import took 0.049602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Hair_Alpha.tga.png
+  artifactKey: Guid(4f072439fd477470997bddf8ad28cb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Hair_Alpha.tga.png using Guid(4f072439fd477470997bddf8ad28cb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7783bdc92de8e020f7e650b1769ce1') in 0.082863 seconds
+  Import took 0.085623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000534 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_HighHeels_MT.tga.png
+  artifactKey: Guid(37d89c5f80b0e4bc68d7c65520ce68d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_HighHeels_MT.tga.png using Guid(37d89c5f80b0e4bc68d7c65520ce68d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce5379bb5799fab1fb15f8650006fc5') in 0.047760 seconds
+  Import took 0.062512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Pant_R.tga.png
+  artifactKey: Guid(a9fab96a2182544218d096fa3c76b20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Pant_R.tga.png using Guid(a9fab96a2182544218d096fa3c76b20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0abc9d8d0c69209be8dae4a1f43de51') in 0.041387 seconds
+  Import took 0.044195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_CowboyHat_MT.tga.png
+  artifactKey: Guid(9f15caa3c19eb4a22af69b337bb59239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_CowboyHat_MT.tga.png using Guid(9f15caa3c19eb4a22af69b337bb59239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faec4acc17aae1dfe618d1eafd26c00e') in 0.036571 seconds
+  Import took 0.038963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Pant_N.tga.png
+  artifactKey: Guid(e86ea868596e44888bac653e4fcdc610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Pant_N.tga.png using Guid(e86ea868596e44888bac653e4fcdc610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc98ce0298c3813ac19c202b2ecfbdfe') in 0.039488 seconds
+  Import took 0.052182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ColtPython_AO.tga.png
+  artifactKey: Guid(1cb0f8506c6834b62a33b135fd8c58d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ColtPython_AO.tga.png using Guid(1cb0f8506c6834b62a33b135fd8c58d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db0361b6ebe7b0ce880a6275b497a94d') in 0.044596 seconds
+  Import took 0.057646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Shirt_BC.tga 1.png
+  artifactKey: Guid(b28e2ce3b3239415ba0fc69a1afd1a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Shirt_BC.tga 1.png using Guid(b28e2ce3b3239415ba0fc69a1afd1a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d42b837c9fe51997c77547b62c09ac2') in 0.040311 seconds
+  Import took 0.053476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Hair_ID.tga.png
+  artifactKey: Guid(e9baab15c35a8491da6ffd551f4a20cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Hair_ID.tga.png using Guid(e9baab15c35a8491da6ffd551f4a20cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e336e6f6b489a4a0982d5f22062d49') in 0.064831 seconds
+  Import took 0.067147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Pant_AO.tga.png
+  artifactKey: Guid(813b039abde034c9b83929e21e11947e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Pant_AO.tga.png using Guid(813b039abde034c9b83929e21e11947e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51fbc82e287e64fab3488d469595e2ec') in 0.057262 seconds
+  Import took 0.059574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_CowboyHat_BC.tga.png
+  artifactKey: Guid(76bf9ad9e02244194b6b4f17d1e81581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_CowboyHat_BC.tga.png using Guid(76bf9ad9e02244194b6b4f17d1e81581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c341b2c76fa95f0e1eb51a699375a629') in 0.038619 seconds
+  Import took 0.040883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Gloves_N.tga.png
+  artifactKey: Guid(abfa6f6d4762940188452442241226b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Gloves_N.tga.png using Guid(abfa6f6d4762940188452442241226b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '994dde70dfa22b2a2999524487aa3b84') in 0.084164 seconds
+  Import took 0.087582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_HighHeels_R.tga.png
+  artifactKey: Guid(b4ab585b82e5442c4bfac6d248978129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_HighHeels_R.tga.png using Guid(b4ab585b82e5442c4bfac6d248978129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '278c7b3a2edb73da048e2453f8e0b437') in 0.063463 seconds
+  Import took 0.081657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Head_BC.tga.png
+  artifactKey: Guid(e141fa192dcd7410baf649436d2ba2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Head_BC.tga.png using Guid(e141fa192dcd7410baf649436d2ba2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ac7103687b0753388083cc0c4f46b11') in 0.081585 seconds
+  Import took 0.099028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Hair_D.tga.png
+  artifactKey: Guid(a0ae8bdfded7346a8a01da99a682022e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Hair_D.tga.png using Guid(a0ae8bdfded7346a8a01da99a682022e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee9347aa057d2e500039bdb460103fef') in 0.052834 seconds
+  Import took 0.055634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Pant_MT.tga.png
+  artifactKey: Guid(24bf1b454626949d8948de66bcfaa895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Pant_MT.tga.png using Guid(24bf1b454626949d8948de66bcfaa895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a63266d9c6de7a7615cb7912537b132') in 0.045519 seconds
+  Import took 0.048216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Shirt_MT.tga.png
+  artifactKey: Guid(c53437ca8695b4fea83ba27d3583b43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Shirt_MT.tga.png using Guid(c53437ca8695b4fea83ba27d3583b43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b67513854833224a0b70250df3b4175') in 0.037408 seconds
+  Import took 0.039536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Hair_BC.tga.png
+  artifactKey: Guid(ff1f232a51c014435ac6b9069cd742c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Hair_BC.tga.png using Guid(ff1f232a51c014435ac6b9069cd742c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '996e56258d7fc89c65f2da84843b9ca3') in 0.035096 seconds
+  Import took 0.038799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Teeth_R.TGA.png
+  artifactKey: Guid(7cea957f863d7442081826da59fa320e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Teeth_R.TGA.png using Guid(7cea957f863d7442081826da59fa320e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b89dfdeaf265623c7cc6778197e698') in 0.026394 seconds
+  Import took 0.030449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_CowboyHat_R.tga.png
+  artifactKey: Guid(13a6240ffb2da4cb29ec532b1262e6d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_CowboyHat_R.tga.png using Guid(13a6240ffb2da4cb29ec532b1262e6d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9c2dc2706848e367cd81e001192bc7d') in 0.041821 seconds
+  Import took 0.056021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eye_BC.tga.png
+  artifactKey: Guid(82a63d793f47b43408abc473c6eae47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eye_BC.tga.png using Guid(82a63d793f47b43408abc473c6eae47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6586b8cc9665c125bdadc8b95f25055') in 0.049603 seconds
+  Import took 0.052620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_CowboyHat_AO.tga.png
+  artifactKey: Guid(7bae58257577a4dc9a63d7ff1638f8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_CowboyHat_AO.tga.png using Guid(7bae58257577a4dc9a63d7ff1638f8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a455dab4b4eb8a7af92aaa25fb09e268') in 0.036628 seconds
+  Import took 0.038667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Gloves_AO.tga.png
+  artifactKey: Guid(83db20ab3faa34b88b9be173b970c95a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Gloves_AO.tga.png using Guid(83db20ab3faa34b88b9be173b970c95a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a65602447be30f8d0a8ebe74a4d9db1c') in 0.058693 seconds
+  Import took 0.073648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ColtPython_MT.tga.png
+  artifactKey: Guid(bcb1e36a242fa444c83b4ebc23518e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ColtPython_MT.tga.png using Guid(bcb1e36a242fa444c83b4ebc23518e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11b17564c17eee913e9e3ff5bff988a') in 0.030218 seconds
+  Import took 0.033193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Head_AO.tga.png
+  artifactKey: Guid(b917a5b22e51d404284714d6724278a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Head_AO.tga.png using Guid(b917a5b22e51d404284714d6724278a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b40321387ae464c76acbb8636eb7143') in 0.048906 seconds
+  Import took 0.051961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ClothMask_R.tga.png
+  artifactKey: Guid(83de2a7ec3c73494e870a036e3dfb7ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ClothMask_R.tga.png using Guid(83de2a7ec3c73494e870a036e3dfb7ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea31c4c3fc4ab171d0adfb0182f2f48f') in 0.021293 seconds
+  Import took 0.024195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Hair0_Alpha.tga.png
+  artifactKey: Guid(852362150c65247bead17fc812c7b87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Hair0_Alpha.tga.png using Guid(852362150c65247bead17fc812c7b87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bde9069bf0a7dfba79424af1bcda216c') in 0.052520 seconds
+  Import took 0.055690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Teeth_M.tga.png
+  artifactKey: Guid(f496dc26579af42fcac1b02d9d61e517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Teeth_M.tga.png using Guid(f496dc26579af42fcac1b02d9d61e517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3e9d225d6f9543639a56ac6d4c72c87') in 0.048184 seconds
+  Import took 0.051088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eye_R.tga.png
+  artifactKey: Guid(403b4be384660418b98886abc838d08f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eye_R.tga.png using Guid(403b4be384660418b98886abc838d08f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5afa944923866e7ecf354508d8ce65cb') in 0.049564 seconds
+  Import took 0.061338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000699 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ClothMask_MT.tga.png
+  artifactKey: Guid(d164622901e6b4eb89123a8c6a342fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ClothMask_MT.tga.png using Guid(d164622901e6b4eb89123a8c6a342fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecafa1411624932780b7fd98ae8b9c63') in 0.051319 seconds
+  Import took 0.054060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Shirt_AO.tga.png
+  artifactKey: Guid(465d483aed2df4efd8a1009fcc9ab815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Shirt_AO.tga.png using Guid(465d483aed2df4efd8a1009fcc9ab815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9548593738381d48667fdd74fdcd5fc3') in 0.035176 seconds
+  Import took 0.037539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ColtPython_BC.tga.png
+  artifactKey: Guid(29b49cd56b74748af9d3ec5b1a6d4133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ColtPython_BC.tga.png using Guid(29b49cd56b74748af9d3ec5b1a6d4133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc698ce76210c05fb7302b6dc0510e1') in 0.052920 seconds
+  Import took 0.055391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eyelash_Alpha.tga.png
+  artifactKey: Guid(1e6006dfbc70d479191ad008e20e0e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eyelash_Alpha.tga.png using Guid(1e6006dfbc70d479191ad008e20e0e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21b5e60c23f35d24a41d4601d21ec2cc') in 0.038705 seconds
+  Import took 0.049540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eyelash_ID.tga.png
+  artifactKey: Guid(38cfaa657f8474e518f4d09c8c7a96d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eyelash_ID.tga.png using Guid(38cfaa657f8474e518f4d09c8c7a96d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc120a4995ecf0d43b827dc5dc93f99d') in 0.046382 seconds
+  Import took 0.049132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ClothMask_AO.tga.png
+  artifactKey: Guid(c68e8b2a470184fcabb5e661c9c39328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ClothMask_AO.tga.png using Guid(c68e8b2a470184fcabb5e661c9c39328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be0a07c1506fe6c1f409eee7a3c893c') in 0.059414 seconds
+  Import took 0.061520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ColtPython_N.tga.png
+  artifactKey: Guid(ee189a6544bd14d4495aff347a6da962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ColtPython_N.tga.png using Guid(ee189a6544bd14d4495aff347a6da962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee0352204077d4524e1e77e510ef3e29') in 0.065956 seconds
+  Import took 0.068765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eyes_N.tga.png
+  artifactKey: Guid(a82dbe9942b724e41bf23b277cceb8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eyes_N.tga.png using Guid(a82dbe9942b724e41bf23b277cceb8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edb6854233f29e5e8374718d5fd7017e') in 0.042733 seconds
+  Import took 0.044903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Shirt_N.tga.png
+  artifactKey: Guid(717de9d79ecbc4a88be889efbab59156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Shirt_N.tga.png using Guid(717de9d79ecbc4a88be889efbab59156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bdfdcc3776bb8bd18068358c85edd30') in 0.056111 seconds
+  Import took 0.058540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_HighHeels_AO.tga.png
+  artifactKey: Guid(25afe91b1e431457ea5be561682a1386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_HighHeels_AO.tga.png using Guid(25afe91b1e431457ea5be561682a1386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93fa8d5730def611c198ca931949a90c') in 0.039291 seconds
+  Import took 0.041577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Gloves_BC.tga.png
+  artifactKey: Guid(d628b291015fb4fda9340ea1e58f8a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Gloves_BC.tga.png using Guid(d628b291015fb4fda9340ea1e58f8a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbcd2fc69f715679f039d2a730bb6a93') in 0.038071 seconds
+  Import took 0.041467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eye_MT.tga.png
+  artifactKey: Guid(76647ff8218004da4a513b52030774d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eye_MT.tga.png using Guid(76647ff8218004da4a513b52030774d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6239f6ce5113e7f7f294e54f9c8c408d') in 0.032098 seconds
+  Import took 0.036044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_HighHeels_N.tga.png
+  artifactKey: Guid(41213dbe16311482b9ae0491a0f344a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_HighHeels_N.tga.png using Guid(41213dbe16311482b9ae0491a0f344a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c183e55e34199f915800ca61db18b9') in 0.082717 seconds
+  Import took 0.085471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Teeth_BC.tga.png
+  artifactKey: Guid(44ba7eae10160449d8620d3b6acac0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Teeth_BC.tga.png using Guid(44ba7eae10160449d8620d3b6acac0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cac7faf2eaea986d25f477b8a242ef1b') in 0.035169 seconds
+  Import took 0.048766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Teeth_N.tga.png
+  artifactKey: Guid(6f678ddcf006347b18fd74e21adaf168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Teeth_N.tga.png using Guid(6f678ddcf006347b18fd74e21adaf168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b9b75984e135066fd39bc6093f08f54') in 0.037903 seconds
+  Import took 0.040538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_CowboyHat_N.tga.png
+  artifactKey: Guid(1ad3d820d48994016833ab6fe29a654f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_CowboyHat_N.tga.png using Guid(1ad3d820d48994016833ab6fe29a654f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8874faa02cbd35fd9dcef1204c958b5') in 0.048985 seconds
+  Import took 0.052333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Body_R.tga.png
+  artifactKey: Guid(2b14dcd7f202b4ffd8c96ecd339bea19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Body_R.tga.png using Guid(2b14dcd7f202b4ffd8c96ecd339bea19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119b8749e396bbe25722d4dc853c0a47') in 0.040758 seconds
+  Import took 0.043479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Shirt_BC.tga.png
+  artifactKey: Guid(bb2550c1420ba43458bac6ebaf854f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Shirt_BC.tga.png using Guid(bb2550c1420ba43458bac6ebaf854f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4066508393a7df582cf7ffc73348beba') in 0.054434 seconds
+  Import took 0.057503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000609 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Body_N.tga.png
+  artifactKey: Guid(494702619c5484aacbb3abc6224bff92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Body_N.tga.png using Guid(494702619c5484aacbb3abc6224bff92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85eaef03fa6f894ffc30d52074c218a6') in 0.041494 seconds
+  Import took 0.044415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eyelash_BC.tga.png
+  artifactKey: Guid(ef8b641ff57ed4e53bbb247eb5d1b87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eyelash_BC.tga.png using Guid(ef8b641ff57ed4e53bbb247eb5d1b87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74eac0c801d4695cf05d2e61dd194fb5') in 0.038036 seconds
+  Import took 0.053051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Body_BC.tga.png
+  artifactKey: Guid(f80f0b44bd8ca49d18a2f59b02df5447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Body_BC.tga.png using Guid(f80f0b44bd8ca49d18a2f59b02df5447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee0e5b21b1af371c84eb91f52d5cff9') in 0.039803 seconds
+  Import took 0.072483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ClothMask_BC.tga.png
+  artifactKey: Guid(e4e9bb6bc14f44a31958e58ed0075807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ClothMask_BC.tga.png using Guid(e4e9bb6bc14f44a31958e58ed0075807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1eeb5f989829ac79280202a22bcc359') in 0.043938 seconds
+  Import took 0.046287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ColtPython_R.tga.png
+  artifactKey: Guid(9264546b225e94c4eb096dd9f1a046cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ColtPython_R.tga.png using Guid(9264546b225e94c4eb096dd9f1a046cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7568102bd4e457bdafcdaf24a48e1b5') in 0.040559 seconds
+  Import took 0.058683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Shirt_R.tga.png
+  artifactKey: Guid(2f43561c64dd64430971b9488e4e6af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Shirt_R.tga.png using Guid(2f43561c64dd64430971b9488e4e6af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0db5bfdc6113f5a2673deaff298441ae') in 0.059368 seconds
+  Import took 0.083430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Gloves_MT.tga.png
+  artifactKey: Guid(0f454ae0d05604176bf5fe275c3affe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Gloves_MT.tga.png using Guid(0f454ae0d05604176bf5fe275c3affe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eec2281261afb051e0e55663ebc351d4') in 0.044629 seconds
+  Import took 0.046847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ClothMask_N.tga.png
+  artifactKey: Guid(6c3e4f31fccce4c1e983422ea429554a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_ClothMask_N.tga.png using Guid(6c3e4f31fccce4c1e983422ea429554a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b1635eed4d05b3f98838961f1b751f') in 0.048642 seconds
+  Import took 0.050729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eyelash_Root.tga.png
+  artifactKey: Guid(129d97f9561104413bff70b15fef5f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Eyelash_Root.tga.png using Guid(129d97f9561104413bff70b15fef5f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7316402f0cb64ff22c43f32ace88b069') in 0.047529 seconds
+  Import took 0.082228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_PantCover_BC.tga.png
+  artifactKey: Guid(9a866cb19406c41b59701adb571f5215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_PantCover_BC.tga.png using Guid(9a866cb19406c41b59701adb571f5215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0a758ceb784071541f7301fea3ef29') in 0.040353 seconds
+  Import took 0.047601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_HighHeels_BC.tga.png
+  artifactKey: Guid(1387f82b57551494da6911c4b5b8b37f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_HighHeels_BC.tga.png using Guid(1387f82b57551494da6911c4b5b8b37f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d218dc1d288c24a0d6c452b5f12f9a') in 0.048339 seconds
+  Import took 0.050466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_PantCover_AO.tga.png
+  artifactKey: Guid(e7f6f647387794dc7a9c90c93783b1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_PantCover_AO.tga.png using Guid(e7f6f647387794dc7a9c90c93783b1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c05613482b085c4504082a2f1e830b') in 0.049109 seconds
+  Import took 0.051093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Pant_BC.tga.png
+  artifactKey: Guid(737ce4daf7c654541bedba81b4489a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Pant_BC.tga.png using Guid(737ce4daf7c654541bedba81b4489a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8a99861305367b19c96b7cad9db2f97') in 0.028126 seconds
+  Import took 0.030676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Head_R.tga.png
+  artifactKey: Guid(f5da8101c103c4f04aee7fe4ba2c0392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_Head_R.tga.png using Guid(f5da8101c103c4f04aee7fe4ba2c0392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9847c4e06c7b357be7c975590933f55f') in 0.083015 seconds
+  Import took 0.085213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_PantCover_R.tga.png
+  artifactKey: Guid(725e1c662b42a4bc1ba2a78c1ea65113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mesh-20220209T095452Z-001/Mesh/Redneck-1.2/textures/T_PantCover_R.tga.png using Guid(725e1c662b42a4bc1ba2a78c1ea65113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aaa7a763a2e9fa81ffc0d192a60cee4') in 0.043918 seconds
+  Import took 0.045985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.035884 seconds.
+  path: Assets/londrina/LondrinaSolid-Regular SDF.asset
+  artifactKey: Guid(c6b67724c54c5094b903f3223d125271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/londrina/LondrinaSolid-Regular SDF.asset using Guid(c6b67724c54c5094b903f3223d125271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5f3c0424eb4a8d2c5afbeba5e675ba') in 0.381251 seconds
+  Import took 0.384351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.163338 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e31ec6b58ba4afcd6d8b7331c0d026b6') in 0.045103 seconds
+  Import took 0.057805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.856728 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c893a4031b0e33d1651c14c90794569c') in 0.032389 seconds
+  Import took 0.048594 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001017 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.781 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.9 MB.
+System memory in use after: 63.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 2.199100 ms (FindLiveObjects: 0.198200 ms CreateObjectMapping: 0.035600 ms MarkObjects: 1.890600 ms  DeleteObjects: 0.073000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000796 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.804 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.9 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1636.
+Total: 1.940700 ms (FindLiveObjects: 0.208200 ms CreateObjectMapping: 0.027900 ms MarkObjects: 1.616100 ms  DeleteObjects: 0.086700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 212.749057 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'becb93b1c95e51fca5876efc1cd86713') in 0.076818 seconds
+  Import took 0.094563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.070531 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1acb2d98d378e803a36393c0969eaac1') in 0.038081 seconds
+  Import took 0.042647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.540401 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a00e94b17432b34fec96ad6c28a8e87') in 0.014375 seconds
+  Import took 0.028223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.961121 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4911347f82d76c7c66128031e077470b') in 0.021696 seconds
+  Import took 0.042202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.824108 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5c8b148e9f7ec65d1671c0ee06751d') in 0.022897 seconds
+  Import took 0.025519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.414139 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3484ce74304bb6a66b15146f91fd1e46') in 0.023600 seconds
+  Import took 0.045756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.006207 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9d4998c56129badd048f617bee22f50') in 0.021470 seconds
+  Import took 0.027071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.808751 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7138c2cac992f270a69bf6897776c21e') in 0.023584 seconds
+  Import took 0.026983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.359144 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a70092de456f8747f22c90004f7abba2') in 0.013537 seconds
+  Import took 0.018202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.096832 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feb31f05a0fe6f1491a1c0772c38d0e7') in 0.023004 seconds
+  Import took 0.027311 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000732 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.847 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.9 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1640.
+Total: 3.665600 ms (FindLiveObjects: 0.215000 ms CreateObjectMapping: 0.036700 ms MarkObjects: 3.281300 ms  DeleteObjects: 0.129000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000962 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.911 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.9 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1643.
+Total: 2.270300 ms (FindLiveObjects: 0.195100 ms CreateObjectMapping: 0.029100 ms MarkObjects: 1.969900 ms  DeleteObjects: 0.074400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000722 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.833 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.9 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1646.
+Total: 1.914500 ms (FindLiveObjects: 0.193400 ms CreateObjectMapping: 0.037800 ms MarkObjects: 1.609600 ms  DeleteObjects: 0.072600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001074 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.097 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.9 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1649.
+Total: 3.825900 ms (FindLiveObjects: 0.447700 ms CreateObjectMapping: 0.054300 ms MarkObjects: 3.234100 ms  DeleteObjects: 0.086700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001077 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.859 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.9 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1652.
+Total: 1.947900 ms (FindLiveObjects: 0.206400 ms CreateObjectMapping: 0.036400 ms MarkObjects: 1.627100 ms  DeleteObjects: 0.076500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000728 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.822 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.9 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1655.
+Total: 2.064800 ms (FindLiveObjects: 0.211200 ms CreateObjectMapping: 0.042500 ms MarkObjects: 1.727200 ms  DeleteObjects: 0.082300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 349.656226 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9714be6526f90b4828be6035236ec833') in 0.072728 seconds
+  Import took 0.076215 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000821 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.840 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1659.
+Total: 1.729400 ms (FindLiveObjects: 0.169300 ms CreateObjectMapping: 0.027900 ms MarkObjects: 1.467700 ms  DeleteObjects: 0.063200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.402895 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afe012156a0b03c651e862dcabbfb63e') in 0.066632 seconds
+  Import took 0.077939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.452645 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '691cb0f11066ddfd02328cbac6e81f7a') in 0.021299 seconds
+  Import took 0.025796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019510 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '691cb0f11066ddfd02328cbac6e81f7a') in 0.025896 seconds
+  Import took 0.029500 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001482 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.816 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1663.
+Total: 4.397700 ms (FindLiveObjects: 0.403100 ms CreateObjectMapping: 0.053400 ms MarkObjects: 3.809800 ms  DeleteObjects: 0.128300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.864757 seconds.
+  path: Assets/Script/PlayerStats.cs
+  artifactKey: Guid(3350edd84446c934cac45e05a15e4e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/PlayerStats.cs using Guid(3350edd84446c934cac45e05a15e4e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45394335991d255573e1c5e4ae4679cb') in 0.015943 seconds
+  Import took 0.064260 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000737 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.950 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1667.
+Total: 1.754300 ms (FindLiveObjects: 0.188500 ms CreateObjectMapping: 0.027100 ms MarkObjects: 1.467900 ms  DeleteObjects: 0.069300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000770 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.883 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1670.
+Total: 3.775100 ms (FindLiveObjects: 0.374600 ms CreateObjectMapping: 0.066400 ms MarkObjects: 3.178300 ms  DeleteObjects: 0.153400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 417.327652 seconds.
+  path: Assets/Script/PlayerStats.cs
+  artifactKey: Guid(3350edd84446c934cac45e05a15e4e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/PlayerStats.cs using Guid(3350edd84446c934cac45e05a15e4e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb60d094f08a23ce10cb2e9289d86cd') in 0.006727 seconds
+  Import took 0.009828 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000770 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.840 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1673.
+Total: 3.879700 ms (FindLiveObjects: 0.437800 ms CreateObjectMapping: 0.052600 ms MarkObjects: 3.285400 ms  DeleteObjects: 0.100800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.599977 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5da9c5aafc4ea54812a2111ff7c6cf8d') in 0.066064 seconds
+  Import took 0.072551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.305955 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05aa48dece4f4f804a3d6fd39e509f48') in 0.023553 seconds
+  Import took 0.042353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.341567 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a36f52c265cdfd1816538724c2530c42') in 0.022883 seconds
+  Import took 0.026250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.789526 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4379152c4f33fddf56bc528e4d7e7745') in 0.023477 seconds
+  Import took 0.027710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.109312 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f4b53e14cd19edf6f6e29b25d495797') in 0.019724 seconds
+  Import took 0.025978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.973995 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a3901aa7ecdc3376a1a465e9a36146') in 0.017476 seconds
+  Import took 0.035356 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000909 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.817 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1677.
+Total: 3.739400 ms (FindLiveObjects: 0.223100 ms CreateObjectMapping: 0.029100 ms MarkObjects: 3.334300 ms  DeleteObjects: 0.150200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.127217 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3747a5b6a62987764e2be6fad5b37d6f') in 0.206507 seconds
+  Import took 0.224381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.325957 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba218bbdb4bd957939884cc1ee32ce27') in 0.017355 seconds
+  Import took 0.030803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.574781 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d5633684adda6d4c70d6e491c0f2d3') in 0.018256 seconds
+  Import took 0.022323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.975905 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9aa0e99c1bf4fc6ebe74b961f5ef62') in 0.019530 seconds
+  Import took 0.033934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.423832 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06003a1d7019026b0aee0e90057e16c7') in 0.030697 seconds
+  Import took 0.033709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.610809 seconds.
+  path: Assets/Prefabs/Coffee.prefab
+  artifactKey: Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coffee.prefab using Guid(fa95835f21b71e84ca1eef8d7cdb6750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c36ac3ca67e3c67937db8adbb1eafad') in 0.021047 seconds
+  Import took 0.032498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.150767 seconds.
+  path: Assets/Script/CollectibleSpawner.cs
+  artifactKey: Guid(0bb837f352d29e74ebbb9b2c8513489d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/CollectibleSpawner.cs using Guid(0bb837f352d29e74ebbb9b2c8513489d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07d7a2fc9c5f8d7eef0aa5cccbdfe5ee') in 0.008855 seconds
+  Import took 0.042080 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000661 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.872 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 64.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1682.
+Total: 2.137600 ms (FindLiveObjects: 0.185800 ms CreateObjectMapping: 0.028100 ms MarkObjects: 1.849200 ms  DeleteObjects: 0.073000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001244 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.877 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 64.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1685.
+Total: 4.021900 ms (FindLiveObjects: 0.418400 ms CreateObjectMapping: 0.056800 ms MarkObjects: 3.403100 ms  DeleteObjects: 0.140900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000821 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.036 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 64.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1688.
+Total: 2.297900 ms (FindLiveObjects: 0.192900 ms CreateObjectMapping: 0.038400 ms MarkObjects: 1.985200 ms  DeleteObjects: 0.079900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000997 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.815 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 64.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1691.
+Total: 3.076900 ms (FindLiveObjects: 0.500100 ms CreateObjectMapping: 0.062000 ms MarkObjects: 2.439800 ms  DeleteObjects: 0.073800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000834 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.770 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 64.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1694.
+Total: 4.159200 ms (FindLiveObjects: 0.587600 ms CreateObjectMapping: 0.049200 ms MarkObjects: 3.340800 ms  DeleteObjects: 0.176400 ms)
+
